@@ -1,0 +1,34 @@
+/*BEGIN PS4 White Controller Styling*/
+.controller.ds4.white {
+    background-image: url(SIMPbase.png);
+}
+
+.ds4.white.disconnected {
+    background: url(SIMPdisconnected.png);
+}
+
+.ds4.white .trigger {
+    background-image: url(SIMPtriggers.png);
+}
+
+.ds4.white .bumper {
+    background-image: url(SIMPbumper.png);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(SIMPstart.png);
+}
+
+.ds4.white .button {
+    background-image: url(SIMPface.png);
+}
+
+.ds4.white .stick {
+    background-image: url(SIMPsticks.png);
+}
+
+.ds4.white .face {
+    background-image: url(SIMPdpad.png);
+}
+
+/*END PS4 White Controller Styling*/

@@ -1,0 +1,38 @@
+/*BEGIN PS4 White Controller Styling*/
+.controller.ds4.white {
+    background-image: url(Jbase.png);
+}
+
+.ds4.white.disconnected {
+    background: url(Jdisconnected.png);
+}
+
+.ds4.white .trigger {
+    background-image: url(Jtriggers.png);
+}
+
+.ds4.white .bumper {
+    background-image: url(Jbumper.png);
+}
+
+.ds4.white .touchpad.pressed {
+    background-image: url(Jtouchpad.png);
+}
+
+.ds4.white .back, .ds4 .start {
+    background-image: url(Jstart.png);
+}
+
+.ds4.white .button {
+    background-image: url(Jface.png);
+}
+
+.ds4.white .stick {
+    background-image: url(Jsticks.png);
+}
+
+.ds4.white .face {
+    background-image: url(Jdpad.png);
+}
+
+/*END PS4 White Controller Styling*/
